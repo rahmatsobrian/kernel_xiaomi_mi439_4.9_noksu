@@ -26,7 +26,6 @@
 #include <linux/regulator/of_regulator.h>
 #include <linux/regulator/machine.h>
 #include <linux/qpnp/qpnp-revid.h>
-#include <linux/mi439-mach.h>
 
 #ifdef PROJECT_MI439
 #include <linux/mi439-mach.h>
